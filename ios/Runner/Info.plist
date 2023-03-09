@@ -10,7 +10,6 @@
         <true/>
         <key>NSAllowsArbitraryLoadsInWebContent</key>
         <true/>
-	<string>Bet1X</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -18,7 +17,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>bet1xfluts</string>
+	<string>Bet1X</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
